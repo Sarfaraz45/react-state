@@ -1,0 +1,35 @@
+.room{
+    height: 100vh
+}
+
+.lit{
+    background-color: white;
+    color: black;
+
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.button {
+    background-color: crimson;
+  border: none;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+#cen{
+    align-content: center;
+    border: 2px solid red;
+    display: inline-block;
+    border-radius: 10px;
+}
